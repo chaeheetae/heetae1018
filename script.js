@@ -62,7 +62,7 @@ const phrases = [
   'Sunrin infosec 118th',
   'aka potatoraptor',
   'instagram @heetae1018',
-  '(⌐■_■)'
+  'Discord 채희태#0272'
 ];
 
 const el = document.querySelector('.text');
